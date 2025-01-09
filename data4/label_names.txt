@@ -1,0 +1,9 @@
+_background_
+Bookshelf
+Chair 1
+Chair 2
+Kitchen
+Sofa
+TV
+Table
+Tree

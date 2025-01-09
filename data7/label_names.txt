@@ -1,0 +1,12 @@
+_background_
+DVD 1
+DVD 2
+DVD 3
+Flowerpot
+Picturre 1
+Picturre 2
+Shelf
+TV
+Tree 1
+Tree 2
+wall

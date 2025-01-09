@@ -1,0 +1,10 @@
+_background_
+Chandelier
+Picture
+Shelf
+Shelf 2
+Shelf 3
+Shelf TV
+Sofa
+TV
+Table

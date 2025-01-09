@@ -1,0 +1,10 @@
+_background_
+Lamp
+Picture
+Shelf
+Shelf tv
+Sofa
+TV
+cupboard
+curtain 1
+curtain 2

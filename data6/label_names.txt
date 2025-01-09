@@ -1,0 +1,12 @@
+_background_
+Chandelier
+Chandelier 2
+Column
+Lamp 1
+Lamp 2
+Sofa 1
+Sofa 2
+Sofa 3
+Table
+Table 2
+Tv
