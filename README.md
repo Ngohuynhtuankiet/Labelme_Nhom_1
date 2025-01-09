@@ -1,1 +1,0 @@
-# Labelme_Nhom_1
